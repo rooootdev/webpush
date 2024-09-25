@@ -63,7 +63,7 @@ function displaySubscriptionInfo(subscription) {
 }
 
 function testSend() {
-    const title = "Push title";
+    const title = "SMOERR NEWS";
     const options = {
         body: "smoerr_news_subscribed",
         icon: "./images/push_icon.jpg",
