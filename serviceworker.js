@@ -1,3 +1,4 @@
+// update 2
 self.addEventListener('push', (event) => {
     let pushData = event.data.json();
     if (!pushData || !pushData.title) {
